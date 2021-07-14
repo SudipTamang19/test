@@ -4,6 +4,16 @@
     margin: auto;
     background-color: aliceblue;
 }
+
 .text{
 	background-color: red;
+}
+
+
+.second-container{
+    height: 400px;
+    width: 300px;
+    margin: auto;
+    background-color: aqua;
+
 }
